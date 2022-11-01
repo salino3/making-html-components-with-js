@@ -1,0 +1,69 @@
+body{
+  background: lightblue;
+}
+
+/* CSS Nav */
+.myNav{
+    display: grid;
+    border: solid 3px orange;
+    width: 40em;
+    height: 8em;
+  background-image: url('../assets/waterSea.jfif');
+    background-size: cover;
+    height: 10em;
+    width: auto;
+    align-items: center;
+      justify-content: center;
+}
+
+.divNavMain{
+  
+    border: solid 3px white;
+    width: 28em;
+    height: 4em;
+    border-radius: 50%;
+    padding-top: 2.5em;
+    padding-left: 1.5em;
+   
+}
+
+.myA{
+  margin: 1em;
+  color: blue;
+  text-decoration: none;
+   font-size: 110%;
+   opacity: 70%;
+
+}
+
+.myA:nth-child(even){
+  color: lightblue;
+}
+
+.myA:hover{
+ font-size: 150%;
+ opacity: 100%;
+}
+
+.myA:active{
+color: yellow;
+}
+
+/* CSS Body */
+
+h2{
+  color: white;
+  margin-left: 2em;
+}
+
+.MyDivBody {
+  border: solid 3px orange;
+  width: 100%;
+ height: 50em;
+ background: url("../assets/waveSideFormat.jfif");
+background-size: 100% 50em ;   
+
+};
+
+
+

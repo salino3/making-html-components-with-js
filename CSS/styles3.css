@@ -1,0 +1,8 @@
+.imgPage3  {
+  border: solid 3px orange;
+  width: auto;
+ height: 50em;
+ background: url("../assets/palmerasOscuras3.jfif");
+background-size: 100% 50em ;   
+
+};
